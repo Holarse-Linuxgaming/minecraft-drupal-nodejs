@@ -1,0 +1,11 @@
+{
+  "name": "minecraft-drupal-nodejs",
+  "description": "reads the minecraft users from holarse drupal",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "express": "3.x",
+    "mysql": "*", 
+    "underscore": "*"
+  }
+}
